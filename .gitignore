@@ -9,3 +9,15 @@ install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
 _deps
+Part I - Basic Techniques\4 Built-in Data Structures\2. Apartments\
+Part I - Basic Techniques\4 Built-in Data Structures\3. Concert Tickets\
+Part I - Basic Techniques\4 Built-in Data Structures\4. Traffic Lights\
+Part I - Basic Techniques\4 Built-in Data Structures\5. Room Allocation\
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
